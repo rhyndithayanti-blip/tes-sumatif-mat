@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Tes Sumatif kelas 4",
+  "description": "Aplikasi Tes Sumatif Matematika Kelas 4 SD Negeri 3 Loloan Timur (Membilang sampai dengan 10.000, Pecahan, Pola Gambar dan Pola Bilangan) dengan sinkronisasi Google Spreadsheet, unduh PDF kisi-kisi, naskah & analisis butir soal, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
